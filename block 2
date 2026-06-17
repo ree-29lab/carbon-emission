@@ -1,7 +1,4 @@
-clean
 Negative‑emission CCS： These facilities remove co2 from the atmosphere or from biomass, so the overall effect is less CO₂ in the air than before.
-
-
 
 Neutual-emission: These facilities produce energy (electricity, hydrogen, heat) without adding extra CO₂ to the air. They are “near” neutral because a small amount of CO₂ still escapes(5-20%).
 
@@ -16,3 +13,16 @@ Even though, it use CCS, but the a large fraction fo the carbon still emits to t
 - the technology is impossibly EXPENSIVE & COMPLEX( people accept using
 - people believe even alough it is expensive but necessary to use
 - people consider that it is a regular technology to reduce the pollution
+
+DETAILS for CCS:
+carbon positive CCS; Most carbon leaves the refinery as fuel products and is later released when burned, so total emissions exceed the CO₂ captured on site
+
+near carbon CCS; use coal to produce the electricity, and the electricity is the energy which does not cause the emission of the carbon. During producing 90% of the carbon will be captured by CCS, and its production does not emit additional co2 to the atomsphere.
+
+carbon negative CCS; 
+1. the co2 is captured by the plants into the biomass.
+2. a fraction of carbon turn to ethanol, finally back to atomsphere via burnning
+3.The remaining carbon is captured during conversion and geologically stored – this portion makes the overall balance negative.
+
+biomass: wood is one of the biomass, it is the source that stores the energy from the sun and via plant's photosynthesis.
+
